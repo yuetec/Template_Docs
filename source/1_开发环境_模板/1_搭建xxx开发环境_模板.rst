@@ -23,6 +23,7 @@ VSCode共有两个下载版本：
 
 | 根据不同系统选择不同类型。这里使用的是Windowsx64，推荐选择System Installer
 
+
 安装
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -36,7 +37,6 @@ VSCode共有两个下载版本：
 .. image:: ./media/1/安装步骤1.png
     :align: center
     :alt: 安装步骤1
-
 
 
 配置
